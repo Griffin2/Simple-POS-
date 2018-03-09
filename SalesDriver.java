@@ -9,7 +9,7 @@ public class SalesDriver {
 		Scanner read = new Scanner(System.in);
 		boolean valid = true;
 		System.out.println("Pencil Store\n");
-		// sentinel
+
 		do {
 			System.out.println("You are purchasing pencils");
 			System.out.print("Input Quantity: ");
